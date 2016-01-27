@@ -1,0 +1,4 @@
+minha_imagem_apache:
+  build: .
+  container_name: minha_imagem_apache
+  hostname: apache
