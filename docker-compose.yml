@@ -1,4 +1,4 @@
 minha_imagem_apache:
-  build: .
-  container_name: meu_container
+  image: aplicacao_apache:latest
+  container_name: aplicacao_apache
   hostname: apache
